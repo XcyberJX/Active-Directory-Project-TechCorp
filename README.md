@@ -19,7 +19,7 @@ Building a home lab to get real experience with the tools and concepts I'm study
 ## 📂 Featured Projects
 | Repo | Description |
 |---|---|
-| [home-lab-notes](#home-lab-notes) | Documentation of my home lab — setup, network topology, lessons learned |
+| [home-lab-notes](#home-lab-notes.md) | Documentation of my home lab — setup, network topology, lessons learned |
 | [troubleshooting-playbook](#) | Common Help Desk issues (symptom → diagnosis → fix) |
 | [cert-study-notes](#) | Organized study notes from course work and study material |
 | [scripts](#) | Small PowerShell/Bash scripts for common sysadmin tasks |
