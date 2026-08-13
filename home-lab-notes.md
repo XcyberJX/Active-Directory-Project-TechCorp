@@ -65,7 +65,11 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 ---
 # Phase 4 (Key Task to Implement)
 1. Delegation of Control
-   *
+   * Gave the IT staff permission to reset passwords for users in the HR department
+   * <img width="758" height="520" alt="IT department now has permission to reset HR department passwords" src="https://github.com/user-attachments/assets/972d186d-6021-46f8-bf58-def376c07282" />
+   * <img width="775" height="495" alt="Clicking finish completes the wizard" src="https://github.com/user-attachments/assets/e4edaaa5-85a6-45b5-8243-0c41a40f6018" />
+
+ 
 
 
 # WORK IN PROGRESS...
