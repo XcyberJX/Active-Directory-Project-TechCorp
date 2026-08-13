@@ -66,8 +66,19 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 # Phase 4 (Key Task to Implement)
 1. Delegation of Control
    * Gave the IT staff permission to reset passwords for users in the HR department
-   * <img width="758" height="520" alt="IT department now has permission to reset HR department passwords" src="https://github.com/user-attachments/assets/972d186d-6021-46f8-bf58-def376c07282" />
-   * <img width="775" height="495" alt="Clicking finish completes the wizard" src="https://github.com/user-attachments/assets/e4edaaa5-85a6-45b5-8243-0c41a40f6018" />
+       * <img width="758" height="520" alt="IT department now has permission to reset HR department passwords" src="https://github.com/user-attachments/assets/972d186d-6021-46f8-bf58-def376c07282" />
+       * <img width="775" height="495" alt="Clicking finish completes the wizard" src="https://github.com/user-attachments/assets/e4edaaa5-85a6-45b5-8243-0c41a40f6018" />
+2. User Template
+   * Created a user template named _Template_HR
+       * <img width="702" height="425" alt="Template created for HR employees" src="https://github.com/user-attachments/assets/171f703c-7add-4e1f-b7c7-41bbd49af196" />
+   * Configured the default settings (Department name, Company, Login restrictions, and job title)
+       * <img width="455" height="585" alt="Organization - credentials set for template" src="https://github.com/user-attachments/assets/fc4ef087-06b2-4766-bc3c-b77e07c60bf3" />
+       * <img width="378" height="132" alt="Account options - set for template" src="https://github.com/user-attachments/assets/6a86bd7e-c58f-4d36-8b34-346e225f6474" />
+       * <img width="525" height="321" alt="Login hours - set for template" src="https://github.com/user-attachments/assets/d3eb3ac2-28cb-4ccb-8e4e-e32a8f3b3b28" />
+
+
+
+   
 
  
 
