@@ -75,6 +75,14 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
        * <img width="455" height="585" alt="Organization - credentials set for template" src="https://github.com/user-attachments/assets/fc4ef087-06b2-4766-bc3c-b77e07c60bf3" />
        * <img width="378" height="132" alt="Account options - set for template" src="https://github.com/user-attachments/assets/6a86bd7e-c58f-4d36-8b34-346e225f6474" />
        * <img width="525" height="321" alt="Login hours - set for template" src="https://github.com/user-attachments/assets/d3eb3ac2-28cb-4ccb-8e4e-e32a8f3b3b28" />
+   * Can copy this template when creating HR users to save you time and reduce human errors
+3. Multiuser creation using PowerShell
+   * Created an csv(Comma Separated Values) file saved as users.csv inside of a notepad with all of the stored code
+       * <img width="1227" height="815" alt="CSV file creation" src="https://github.com/user-attachments/assets/a6002b19-975b-404a-bc3a-a5816578d365" />
+   * Ran PowerShell ISE as an administrator and wrote the following code:
+       * <img width="653" height="380" alt="The script used in PowerShell " src="https://github.com/user-attachments/assets/4cb5f44e-cc69-4e90-ad82-fd32d57ca31c" />
+      
+
 
 
 
