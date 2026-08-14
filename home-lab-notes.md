@@ -78,15 +78,23 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 * Can copy this template when creating HR users to save you time and reduce human errors
 ## 3. Multiuser creation using PowerShell
 * Created an csv(Comma Separated Values) file saved as users.csv inside of a notepad
-    * The users created:  
+    * The users created: avance, bmiller, cday  
     * <img width="1227" height="815" alt="CSV file creation" src="https://github.com/user-attachments/assets/a6002b19-975b-404a-bc3a-a5816578d365" />
 * Ran PowerShell ISE as an administrator and wrote the following code:
     * <img width="653" height="380" alt="The script used in PowerShell " src="https://github.com/user-attachments/assets/4cb5f44e-cc69-4e90-ad82-fd32d57ca31c" />
-* Scripts ran successful
+* Scripts ran successful creating the following users
     * <img width="586" height="95" alt="Successfully created the 3 users from Powershell" src="https://github.com/user-attachments/assets/182637cd-379e-4def-9a25-3aa8a731d2e6" />
-* 
+* Created in their respected department OU
+    * <img width="416" height="382" alt="Shows user Alice created from Powershell" src="https://github.com/user-attachments/assets/5a8b2937-5bbb-49c4-ae8d-63600c8371fc" />
+    * <img width="463" height="289" alt="Shows user Bob created from Powershell" src="https://github.com/user-attachments/assets/146b7b9a-41cd-44f3-8fcc-1de22ba1d68b" />
+    * <img width="418" height="408" alt="Shows user Charlie created from PowerShell" src="https://github.com/user-attachments/assets/bb0f4d20-7551-4167-b187-db888645054a" />
 
-      
+---
+# Phase 5 (Testing)
+* Attempted to login as the user jdoe
+    *  The user can login successfully prompted to change their password
+       * <img width="1106" height="860" alt="Password change successful" src="https://github.com/user-attachments/assets/df5ea087-4244-4c3b-abdd-0bf05a72d700" />
+  
 
 # WORK IN PROGRESS...
    
