@@ -93,7 +93,13 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 # Phase 5 (Testing)
 * Attempted to login as the user jdoe
     *  The user can login successfully prompted to change their password
-       * <img width="1106" height="860" alt="Password change successful" src="https://github.com/user-attachments/assets/df5ea087-4244-4c3b-abdd-0bf05a72d700" />
+       * <img width="816" height="708" alt="Confirmed that the system told the user to change their password" src="https://github.com/user-attachments/assets/2d0c44fd-bfa5-4371-abc7-6e32527af7e5" />
+       * <img width="1106" height="860" alt="Password change successful" src="https://github.com/user-attachments/assets/61281d67-c202-4939-be4d-80ebb32bce0f" />
+       * <img width="466" height="252" alt="Jdoe user login successful" src="https://github.com/user-attachments/assets/fe5706f7-441d-4718-98cb-4840a0631b5f" />
+
+       
+
+
   
 
 # WORK IN PROGRESS...
