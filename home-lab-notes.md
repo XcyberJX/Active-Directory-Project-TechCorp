@@ -96,7 +96,12 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
     * The result was the same, user can login successfully  
        * <img width="522" height="266" alt="arivera user successful login" src="https://github.com/user-attachments/assets/760ac17d-9ba5-48be-8da0-1ace52f9c4dc" />
     * This user has permission to reset user passwords only for users in the HR department
-       *   
+* Noticed that the user could not access ADUC from their workstation
+* Logged in as an administrator, realized that RSAT(Remote Server Administration Tools) isnt preinstalled on the client
+    * <img width="693" height="685" alt="RSAT doesnt come pre installed on the client" src="https://github.com/user-attachments/assets/1eaf4ee5-a6b1-4594-bffa-208a60369d0b" />
+* 
+
+
    
 
 
