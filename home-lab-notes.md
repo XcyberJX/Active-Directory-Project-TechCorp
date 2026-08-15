@@ -16,13 +16,9 @@ Documenting my home lab as I build hands-on skills. The company used is for proj
 
 - Creating Active Directory Domain Services from scratch
 - Promoting a Windows Server VM to a Domain Controller
-- Joining a client machine to the domain
+- Having a client machine join the domain
 - Creating and managing user accounts / OUs
 - Testing login, permissions, and Group Policy behavior from the client side
-
-## Why This Matters for Help Desk
-
-A huge share of tickets involves AD-related issues. Stuff like locked accounts, password resets, permission errors, group policy not applying, or login failures. Building this from scratch gives me an understanding of what's happening "behind the scenes" when I'm troubleshooting these issues on the job.
 
 ## Overview
 I am a System Administrator for a growing company called TechCorp. The goal is to create an Active Directory structure, create standardized Organizational Units, make users with proper group memberships, and implement basic security. I was able to complete this task in 5 phases with each phase ensuring progress toward the objective. 
