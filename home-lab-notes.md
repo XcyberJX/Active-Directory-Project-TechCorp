@@ -95,7 +95,7 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 * Attempted to login as the user arivera (This user is the IT helpdesk professional)
     * The result was the same, user can login successfully  
        * <img width="522" height="266" alt="arivera user successful login" src="https://github.com/user-attachments/assets/760ac17d-9ba5-48be-8da0-1ace52f9c4dc" />
-    * This user has permission to reset user passwords but only for users in the HR department
+    * This user has permission to reset user passwords only for users in the HR department
        *   
    
 
