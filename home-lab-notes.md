@@ -93,8 +93,10 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
        * <img width="1106" height="860" alt="Password change successful" src="https://github.com/user-attachments/assets/61281d67-c202-4939-be4d-80ebb32bce0f" />
        * <img width="466" height="252" alt="Jdoe user login successful" src="https://github.com/user-attachments/assets/fe5706f7-441d-4718-98cb-4840a0631b5f" />
 * Attempted to login as the user arivera (This user is the IT helpdesk professional)
-    * The user can login successfully  
+    * The result was the same, user can login successfully  
        * <img width="522" height="266" alt="arivera user successful login" src="https://github.com/user-attachments/assets/760ac17d-9ba5-48be-8da0-1ace52f9c4dc" />
+    * This user has permission to reset user passwords but only for users in the HR department
+       *   
    
 
 
