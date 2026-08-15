@@ -99,7 +99,11 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 * Noticed that the user could not access ADUC from their workstation
 * Logged in as an administrator, realized that RSAT(Remote Server Administration Tools) isnt preinstalled on the client
     * <img width="693" height="685" alt="RSAT doesnt come pre installed on the client" src="https://github.com/user-attachments/assets/1eaf4ee5-a6b1-4594-bffa-208a60369d0b" />
-* 
+* Ran into an issue not being able to install the service without any details of the problem.
+    * <img width="642" height="225" alt="could not be installed" src="https://github.com/user-attachments/assets/2d267791-42da-49d6-8d9b-17509f5311b3" />
+* Began to troubleshoot to find out what MIGHT be the problem.
+*  
+
 
 
    
