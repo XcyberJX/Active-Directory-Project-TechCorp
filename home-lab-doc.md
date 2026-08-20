@@ -101,8 +101,16 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
     * <img width="693" height="685" alt="RSAT doesnt come pre installed on the client" src="https://github.com/user-attachments/assets/1eaf4ee5-a6b1-4594-bffa-208a60369d0b" />
 * Ran into an issue not being able to install the service without any details of the problem.
     * <img width="642" height="225" alt="could not be installed" src="https://github.com/user-attachments/assets/2d267791-42da-49d6-8d9b-17509f5311b3" />
-* Began to troubleshoot to find out what MIGHT be the problem.
-*  
+* Began to troubleshoot to evaluate the problem.
+* Noticed that there was no internet access within the internal network
+    *  <img width="170" height="167" alt="Client vm with no internet access" src="https://github.com/user-attachments/assets/67ef84e2-bd9e-440f-99fe-2479602956a2" />
+* Simply changed the network settings from "internal network" to "bridged adapter"
+    * <img width="172" height="153" alt="now have internet access" src="https://github.com/user-attachments/assets/6295e15f-0e29-441e-9f2f-6488e794f670" />
+* 
+
+
+
+
 
 
 
