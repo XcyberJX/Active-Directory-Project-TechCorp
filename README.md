@@ -3,15 +3,15 @@
 I'm transitioning into IT from a non-tech background, currently working toward a **Help Desk / Tier 1 Support / Junior System Administrator** role.
 
 ## 🎓 Currently Studying
-- Microsoft Certified: Azure Administrator Associate Certification - STARTING SOON (Microsoft Learn)
+- Microsoft Certified: Azure Administrator Associate Certification - STARTING SOON 
 
-- Microsoft Certified: Azure Fundamentals Certification - WORK IN PROGRESS (Udemy)
+- Microsoft Certified: Azure Fundamentals Certification - WORK IN PROGRESS 
 
-- CompTIA A+ Certification - COMPLETED CompTIA
+- CompTIA A+ Certification - COMPLETED 
 
-- Google IT Support Professional Certificate - COMPLETED (Coursera)
+- Google IT Support Professional Certificate - COMPLETED 
 
-- Google Cybersecurity Professional Certificate - COMPLETED (Coursera)
+- Google Cybersecurity Professional Certificate - COMPLETED 
 
 ## 🛠️ Hands-On Practice
 Building a home lab to get real experience with the tools and concepts I'm studying:
