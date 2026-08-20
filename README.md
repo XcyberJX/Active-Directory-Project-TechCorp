@@ -19,6 +19,7 @@ Building a home lab to get real experience with the tools and concepts I'm study
 - Networking fundamentals & basic network config
 - Windows/Linux system administration basics
 - Active Directory and Group Policy
+
 Azure Portal
 
 ## 📂 Featured Projects
