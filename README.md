@@ -3,7 +3,7 @@
 I'm transitioning into IT from a non-tech background, currently working toward a **Help Desk / Tier 1 Support** role.
 
 ## 🎓 Currently Studying
-- Microsoft Certified: Azure Administrator Associate Certification - STARTING SOON (Udemy)
+- Microsoft Certified: Azure Administrator Associate Certification - STARTING SOON (Microsoft Learn)
 
 - Microsoft Certified: Azure Fundamentals Certification - WORK IN PROGRESS (Udemy)
 
