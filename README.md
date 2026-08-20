@@ -35,4 +35,4 @@ Azure Portal
 - Email: [williamsjustin960@gmail.com]
 
 ---
-*Actively job hunting for Help Desk / IT Support roles — open to entry-level opportunities. (Open to relocation with relocation assistance.)*
+*Actively job hunting for Help Desk / IT Support / Junior System Administrator roles — open to entry-level opportunities. (Open to relocation with relocation assistance.)*
