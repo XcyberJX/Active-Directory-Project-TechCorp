@@ -7,7 +7,7 @@ I'm transitioning into IT from a non-tech background, currently working toward a
 
 - Microsoft Certified: Azure Fundamentals Certification - WORK IN PROGRESS (Udemy)
 
-- CompTIA A+ Certification - COMPLETED (Professor Messer)
+- CompTIA A+ Certification - COMPLETED CompTIA
 
 - Google IT Support Professional Certificate - COMPLETED (Coursera)
 
