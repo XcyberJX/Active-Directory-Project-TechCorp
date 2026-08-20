@@ -1,4 +1,4 @@
-# Home Lab Notes
+# Home Lab Documentation
 
 Documenting my home lab as I build hands-on skills. The company used is for project/labs purpose only and is not an actual company.
 
