@@ -118,7 +118,9 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 ---
 ## What I've learned
 * Identity and Access Management: Creating an OU structure ensuring users can have access to the correct resources
-* Role-Based Access Control:  
+* Role-Based Access Control:
+* Scripting:
+*   
     
  
 
