@@ -27,7 +27,7 @@ Building a home lab to get real experience with the tools and concepts I'm study
 | [troubleshooting-playbook](troubleshooting-playbook.md) | Common Help Desk issues (symptom → diagnosis → fix) |
 | [cert-study-notes](cert-study-notes.md) | Organized study notes from course work and study material |
 | [scripts](scripts.md) | Small PowerShell/Bash scripts for common sysadmin tasks |
-| [Azure-projects](azure-projects.md) |  
+| [azure-projects](azure-projects.md) |  
 
 ## Get in touch
 - LinkedIn: [https://www.linkedin.com/in/justinwilliamsofficial/]
