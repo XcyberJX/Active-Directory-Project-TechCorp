@@ -106,7 +106,15 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
     *  <img width="170" height="167" alt="Client vm with no internet access" src="https://github.com/user-attachments/assets/67ef84e2-bd9e-440f-99fe-2479602956a2" />
 * Simply changed the network settings from "internal network" to "bridged adapter"
     * <img width="172" height="153" alt="now have internet access" src="https://github.com/user-attachments/assets/6295e15f-0e29-441e-9f2f-6488e794f670" />
-* 
+* As a result, the installation was a success
+    * <img width="620" height="182" alt="RSAT addded" src="https://github.com/user-attachments/assets/a0748fb2-927d-4231-8f26-0c8dc02f82e3" />
+* Logged in again as the user "arivera"
+* User successfully now has access to ADUC
+    * <img width="865" height="232" alt="Access to ADUC from user arivera" src="https://github.com/user-attachments/assets/a3bea58c-fd4c-47cd-8e83-f5e584641415" />
+* Tested their permissions. Can reset user passwords for the HR department but cannot modify administrator settings 
+*  
+
+ 
 
 
 
