@@ -111,8 +111,16 @@ I remembered making an OU structure makes it easy to manage and deploy Group Pol
 * Logged in again as the user "arivera"
 * User successfully now has access to ADUC
     * <img width="865" height="232" alt="Access to ADUC from user arivera" src="https://github.com/user-attachments/assets/a3bea58c-fd4c-47cd-8e83-f5e584641415" />
-* Tested their permissions. Can reset user passwords for the HR department but cannot modify administrator settings 
-*  
+* Tested their permissions. User can reset user passwords for the HR department but cannot modify administrator settings 
+    * <img width="507" height="456" alt="arivera user can reset passwords" src="https://github.com/user-attachments/assets/1959561f-14fd-49fb-bcf4-dd384ae56a52" />
+    * <img width="541" height="290" alt="arivera user cannot modify admin settings" src="https://github.com/user-attachments/assets/9a965f91-42ca-4cf1-9602-2d4a7f6348ae" />
+
+---
+## What I've learned
+* Identity and Access Management: Creating an OU structure ensuring users can have access to the correct resources
+* Role-Based Access Control:  
+    
+ 
 
  
 
