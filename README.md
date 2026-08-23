@@ -1,4 +1,4 @@
-# Hi, my name is Justin 
+# Welcome to my home lab documentation
 
 I'm transitioning into IT from a non-tech background, currently working toward a **Help Desk / Tier 1 Support / Junior System Administrator** role.
 
