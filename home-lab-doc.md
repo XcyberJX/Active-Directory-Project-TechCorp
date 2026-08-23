@@ -7,10 +7,8 @@ Documenting my home lab as I build hands-on skills. The company used is for proj
 **Hypervisor:** Oracle VirtualBox
 
 **VMs:**
-| VM | Role | Notes |
-|---|---|---|
-| TechCorp DC | Domain Controller (AD DS) | Promoted to a domain controller running Active Directory Domain Services |
-| TechCorp Client | Domain-joined client | Connects to TechCorp DC, used to test user auth, GPOs, and domain policies |
+<img width="1351" height="723" alt="vms" src="https://github.com/user-attachments/assets/fac84a84-407d-4963-a7fb-33d198dc9230" />
+
 
 ## What I'm Practicing
 
