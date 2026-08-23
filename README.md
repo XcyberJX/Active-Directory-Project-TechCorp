@@ -1,1 +1,1 @@
-# Welcome to my virtual home lab!
+# Welcome to my virtual home lab documentation!
