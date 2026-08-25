@@ -4,7 +4,7 @@ TechCorp is a growing managed service provider company that help other companys 
 
 ## 5 Phases
 This project will consist of 5 phases with each ensuring a smooth and efficient setup
-   * (Phase-1.md): Lab Environment Setup  
+   * [Phase 1](Phase-1.md): Lab Environment Setup  
 
    * Phase 2: Design the OU Hierarchy
 
