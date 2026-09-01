@@ -14,6 +14,8 @@ Starting from the DC VM, open Active Directory Users and Computers, right click 
   Lastly, I wanted to create the actual departments inside of the Department OU. To do this is the same process as before. Right click "Departments", click "new", then "Organizational Unit". The screenshot below shows the result of the different departments created.
   - <img width="216" height="112" alt="created departments in the department OU" src="https://github.com/user-attachments/assets/e6409367-a1d7-473f-88d3-73407aa51414" />
 
+  As a result, this creates the structure shown in the screenshot at the very top. I believe that this structure demonstrates and supports both current and future administrative needs. 
+
 
  
 
