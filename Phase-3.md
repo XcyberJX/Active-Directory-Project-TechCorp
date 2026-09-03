@@ -4,7 +4,7 @@ Now that the OU structure is created, we will now create the users belonging to 
 
 Begin by creating an OU called "Groups" then inside create another OU called "Security Groups". Inside of "Security Groups" I will create a group for the IT, Finance, and HR departments. Each with their own purpose and their own set of permissions to resources within the environment. The screenshot below provides what it should look like.
 - <img width="530" height="342" alt="GRPs created" src="https://github.com/user-attachments/assets/9102f5d9-ed25-458e-b9f9-f6d9864cb2fd" />
-Now that the groups are created, we can now create my first set of users. 
+Now that the groups are created, I can now create my first set of users. The users I will create will be Jane Doe for the HR department, John Smith for the Finance department, and Alex Rivera for the IT department. To create users simply right click the designated department OU, then click new  
 
 
 
